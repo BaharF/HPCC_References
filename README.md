@@ -16,3 +16,7 @@ https://d2wulyp08c6njk.cloudfront.net/releases/CE-Candidate-7.6.2/docs/EN_US/Vis
 
 VS Code
 https://wiki.hpccsystems.com/display/hpcc/VS+Code+and+HPCC+Systems+Installation+Cheat+Sheet
+
+Gaming
+https://ide.hpccsystems.com/workspaces/share/030afb39-61af-4f4d-b073-36cd9ee6f4da
+
